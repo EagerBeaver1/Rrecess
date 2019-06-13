@@ -1,8 +1,8 @@
-PDU code,PDU Name,Total no. of patients submitted to NPDA,Total no. of patients eligible for HbA1c analysis*,Patients used for HbA1c out-come analysis **,Patients excluded from HbA1c outcome analysis,% excluded from HbA1c outcome analysis,% with HbA1c<58 mmol/mol,Mean HbA1c (mmol/mol),Median HbA1c (mmol/mol),% of incomplete records of care processes  except Hba1c
+PDu22 code,PDU Name,Total no. of patients submitted to NPDA,Total no. of patients eligible for HbA1c analysis*,Patients used for HbA1c out-come analysis **,Patients excluded from HbA1c outcome analysis,% excluded from HbA1c outcome analysis,% with HbA1c<58 mmol/mol,Mean HbA1c (mmol/mol),Median HbA1c (mmol/mol),% of incomplete records of care processes  except Hba1c
 PZ001,"Singleton Hospital, Abertawe Bro Morgannwg University Health Board, Wales",136,133,108,25,18.80%,12.00%,70.3,69.4,30.60%
 PZ002,"Norfolk and Norwich University Hospital, Norfolk and Norwich University Hospital Trust, East of England",88,84,56,28,33.30%,12.50%,73.9,68.8,22.30%
 PZ004,"Northampton General Hospital,  Northampton General Hospital NHS Trust, East Midlands",211,211,172,39,18.50%,12.80%,72.8,68,39.20%
-PZ005,"Derbyshire Children’s Hospital, Derby Hospitals NHS Foundation Trust, East Midlands",257,254,223,31,12.20%,20.60%,70,68,29.10%
+PZ005,"Derbyshire Childrenâ€™s Hospital, Derby Hospitals NHS Foundation Trust, East Midlands",257,254,223,31,12.20%,20.60%,70,68,29.10%
 PZ006,"Doncaster Royal Infirmary, Doncaster and Bassetlaw Hospitals NHS Foundation Trust, Yorkshire and the Humber",148,145,123,22,15.20%,29.30%,66.2,64.5,23.40%
 PZ007,"John Radcliffe Hospital, Oxford Radcliffe Hospitals NHS Trust, South Central",344,340,299,41,12.10%,29.80%,64,63,29.00%
 PZ009,"Macclesfield District General Hospital, East Cheshire NHS Trust, North West",96,95,84,11,11.60%,21.40%,69.9,66.3,30.10%
@@ -65,7 +65,7 @@ PZ078,"North Staffordshire Hospital, University Hospital of North Staffordshire 
 PZ080,"Sunderland Royal Hospital, City Hospitals Sunderland NHS Trust, North East",167,169,149,20,11.80%,16.10%,68.5,66,29.50%
 PZ082,"Evelina Children's Hospital at St Thomas Hospital, Guy's and St Thomas' NHS Foundation Trust, London and South East",94,94,83,11,11.70%,8.40%,81.8,78.7,40.60%
 PZ084,"Kidderminster General Hospital, Worcestershire Acute Hospitals NHS Trust, West Midlands",63,63,59,4,6.30%,17.00%,75.7,69.5,24.30%
-PZ085," Princess Royal University Hospital, Bromley, South London Healthcare NHS Trust, London and South East",112,103,88,15,14.60%,17.10%,69.2,66.1,27.40%
+PZ085,"Â Princess Royal University Hospital, Bromley, South London Healthcare NHS Trust, London and South East",112,103,88,15,14.60%,17.10%,69.2,66.1,27.40%
 PZ086,"Hinchingbrooke Hospital, Hinchingbrooke Health Care NHS Trust, East of England",96,96,83,13,13.50%,8.40%,73.5,71.6,48.80%
 PZ088,"Royal Surrey County Hospital, The Royal Surrey County Hospital NHS Foundation Trust, London and South East",51,50,42,8,16.00%,35.70%,61.7,59.3,97.80%
 PZ089,"Northwick Park Hospital, North West London Hospitals NHS Trust, London and South East",106,104,21,83,79.80%,14.30%,83.2,81,62.10%
@@ -143,7 +143,7 @@ PZ176,"St Peter's Hospital, Ashford and St Peter's Hospitals NHS Trust, London a
 PZ177,"Royal Bolton Hospital, Bolton Hospital NHS Foundation Trust, North West",108,107,87,20,18.70%,14.90%,69.7,68,4.50%
 PZ178,"Manor Hospital, Walsall Healthcare NHS Trust, West Midlands",113,113,19,94,83.20%,5.30%,77.9,73,38.00%
 PZ179,"Countess of Chester Hospital NHS Foundation Trust, Countess Of Chester Hospital NHS Foundation Trust, North West",114,114,104,10,8.80%,26.90%,71.5,66.8,29.10%
-PZ180,"King’s Mill Hospital, Sherwood Forest Hospitals NHS Foundation Trust, East Midlands",146,145,128,17,11.70%,17.20%,67.9,66.1,21.00%
+PZ180,"Kingâ€™s Mill Hospital, Sherwood Forest Hospitals NHS Foundation Trust, East Midlands",146,145,128,17,11.70%,17.20%,67.9,66.1,21.00%
 PZ181,"Ipswich Hospital, The Ipswich Hospital NHS Trust, East of England",222,219,189,30,13.70%,15.90%,74.8,73.8,29.30%
 PZ182,"West Middlesex University Hospital, West Middlesex University Hospital NHS Trust, London and South East",105,104,92,12,11.50%,12.00%,81.2,77.8,44.10%
 PZ183,"Royal Preston Hospital, Lancashire Teaching Hospitals NHS Foundation Trust, North West",196,193,175,18,9.30%,13.10%,75.3,73,59.40%
@@ -166,7 +166,7 @@ PZ213,"East Surrey Hospital, Surrey and Sussex NHS Trust, London and South East"
 PZ215,"King's College Hospital, King's College Hospital NHS Trust, London and South East",135,132,123,9,6.80%,9.80%,80.5,77.1,49.20%
 PZ216,"Tunbridge Wells Hospital, Maidstone and Tunbridge Wells Area and NHS Trust, London and South East",97,97,84,13,13.40%,21.40%,67.9,65.3,73.10%
 PZ218,"Frimley Park Hospital, Frimley Park Hospital NHS Trust, London and South East",161,155,135,20,12.90%,17.00%,71,67,33.50%
-PZ219,"Sheffield Children’s Hospital, Sheffield Children's NHS Foundation Trust, Yorkshire and the Humber",228,227,197,30,13.20%,26.40%,68.2,66.1,34.20%
+PZ219,"Sheffield Childrenâ€™s Hospital, Sheffield Children's NHS Foundation Trust, Yorkshire and the Humber",228,227,197,30,13.20%,26.40%,68.2,66.1,34.20%
 PZ220,"Bedford Hospital, Bedford Hospital NHS Trust, East of England",124,122,104,18,14.80%,7.70%,79.1,76,66.20%
 PZ221,"The Great Western Hospital, Great Western Hospitals NHS Foundation Trust, South West",143,142,123,19,13.40%,14.60%,77.2,73.5,62.20%
 PZ222,"New Cross Hospital, The Royal Wolverhampton Hospitals NHS Trust, West Midlands",179,179,154,25,14.00%,13.60%,73.6,70,12.70%
@@ -179,5 +179,5 @@ PZ231,"Salford Royal Hospital, Salford Royal NHS Foundation Trust, North West",1
 PZ232,"Queens Hospital, Barking, Havering and Redbridge University Hospitals NHS Trust, London and South East",167,163,143,20,12.30%,11.90%,76.1,73,47.60%
 PZ234,"North Manchester General Hospital, The Pennine Acute Hospitals NHS Trust, North West",277,275,152,123,44.70%,13.80%,72.3,69.4,64.90%
 PZ238,"Queen Alexandra Hospital, Portsmouth Hospitals NHS Trust, South West",221,216,189,27,12.50%,13.20%,70.3,69,36.20%
-PZ240,"Russell’s Hall Hospital, The Dudley Group of Hospitals NHS Foundation Trust, West Midlands",156,155,103,52,33.50%,7.80%,74.1,72.7,79.20%
+PZ240,"Russellâ€™s Hall Hospital, The Dudley Group of Hospitals NHS Foundation Trust, West Midlands",156,155,103,52,33.50%,7.80%,74.1,72.7,79.20%
 PZ242,"Cheltenham and Gloucester Hospital, Gloucestershire Hospitals NHS Trust, South West",296,296,239,57,19.30%,15.50%,70.3,67,49.00%
